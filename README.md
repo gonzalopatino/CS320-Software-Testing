@@ -35,5 +35,5 @@ My approach to software design is grounded in **modularization** and careful pla
 For instance, I implemented **ContactService**, **TaskService**, and **AppointmentService** as distinct modules with clear interfaces, facilitating independent development and testing. I also leverage **design patterns**, such as the **Singleton pattern** for managing shared resources, to enhance scalability and maintainability.
 
 **Security** is integral to my design process, ensuring that sensitive data is handled securely across all modules from the outset. This focus on **modularity**, **scalability**, and **security** ensures that the software is robust and adaptable to future requirements.
-![Uploading image.png…]()
+
 
